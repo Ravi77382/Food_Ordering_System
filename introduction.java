@@ -91,7 +91,7 @@ public class introduction{
 		else 
 		{
 			System.out.println("\nThank You For Coming.");					
-			System.out.println("Your Bill is: "+sum+"/-Rs");			//Final Billing 
+			System.out.println("Your Bill is: Rs."+sum+"/-");			//Final Billing 
 		}
 
 
