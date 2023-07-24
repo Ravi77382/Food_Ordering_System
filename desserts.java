@@ -13,8 +13,7 @@ public class desserts extends introduction{
 		pr2=150;
 		pr3=180;
 		pr4=200;
-		System.out.println("DESSERTS"); 
-		System.out.println("Choose Item: ");
+		System.out.println("DESSERTS");
 		System.out.println("Item A:"+A+"\t\tRs."+pr1);
 		System.out.println("Item B:"+B+"\t\t\tRs."+pr2);
 		System.out.println("Item C:"+C+"\t\tRs."+pr3);
