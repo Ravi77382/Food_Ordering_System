@@ -13,8 +13,7 @@ public class main_course extends introduction {
 		pr2=550;
 		pr3=550;
 		pr4=500;
-		System.out.println("MAIN COURSE"); 
-		System.out.println("Choose Item: ");
+		System.out.println("MAIN COURSE");
 		System.out.println("Item A:"+A+"\t\tRs."+pr1);
 		System.out.println("Item B:"+B+"\tRs."+pr2);
 		System.out.println("Item C:"+C+"\tRs."+pr3);
