@@ -13,8 +13,7 @@ public class starters extends introduction{
 		pr2=350;
 		pr3=350;
 		pr4=350;
-		System.out.println("STARTERS"); 
-		System.out.println("Choose Item: ");
+		System.out.println("STARTERS");
 		System.out.println("Item A:"+A+"\tRs."+pr1);
 		System.out.println("Item B:"+B+"\tRs."+pr2);
 		System.out.println("Item C:"+C+"\tRs."+pr3);
