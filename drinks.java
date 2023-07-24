@@ -13,8 +13,7 @@ public class drinks extends introduction {
 		pr2=40;
 		pr3=40;
 		pr4=40;
-		System.out.println("DRINKS"); 
-		System.out.println("Choose Item: ");
+		System.out.println("DRINKS");
 		System.out.println("Item A:"+A+"\t\tRs."+pr1);
 		System.out.println("Item B:"+B+"\tRs."+pr2);
 		System.out.println("Item C:"+C+"\t\tRs."+pr3);
